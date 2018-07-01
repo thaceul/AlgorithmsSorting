@@ -1,0 +1,7 @@
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\bin\Debug\AlgorithmsSorting.exe.config
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\bin\Debug\AlgorithmsSorting.exe
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\bin\Debug\AlgorithmsSorting.pdb
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\obj\Debug\AlgorithmsSorting.csprojAssemblyReference.cache
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\obj\Debug\AlgorithmsSorting.csproj.CoreCompileInputs.cache
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\obj\Debug\AlgorithmsSorting.exe
+C:\Users\Thaceu\Desktop\Uni\Coding\AlgorithmsSorting\AlgorithmsSorting\obj\Debug\AlgorithmsSorting.pdb
